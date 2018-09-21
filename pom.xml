@@ -1543,7 +1543,7 @@
     </hbase-surefire.cygwin-argLine>
     <!-- Surefire argLine defaults to Linux, cygwin argLine is used in the os.windows profile -->
     <argLine>${hbase-surefire.argLine}</argLine>
-    <jacoco.version>0.7.5.201505241946</jacoco.version>
+    <jacoco.version>0.8.2</jacoco.version>
     <extra.enforcer.version>1.0-beta-6</extra.enforcer.version>
     <enforcer.version>3.0.0-M1</enforcer.version>
     <!-- Location of test resources -->

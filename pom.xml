@@ -1464,7 +1464,7 @@
     <curator.version>4.0.0</curator.version>
     <!-- Plugin Dependencies -->
     <apache.rat.version>0.12</apache.rat.version>
-    <asciidoctor.plugin.version>1.5.5</asciidoctor.plugin.version>
+    <asciidoctor.plugin.version>1.5.6</asciidoctor.plugin.version>
     <asciidoctorj.pdf.version>1.5.0-alpha.15</asciidoctorj.pdf.version>
     <build.helper.maven.version>3.0.0</build.helper.maven.version>
     <buildnumber.maven.version>1.4</buildnumber.maven.version>

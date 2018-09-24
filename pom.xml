@@ -1425,7 +1425,7 @@
     <httpcore.version>4.4.6</httpcore.version>
     <metrics-core.version>3.2.1</metrics-core.version>
     <jackson.version>2.9.2</jackson.version>
-    <jaxb-api.version>2.2.12</jaxb-api.version>
+    <jaxb-api.version>2.3.0</jaxb-api.version>
     <jetty.version>9.3.19.v20170502</jetty.version>
     <jetty-jsp.version>9.2.19.v20160908</jetty-jsp.version>
     <servlet.api.version>3.1.0</servlet.api.version>

@@ -1451,7 +1451,7 @@
     <!-- What ZooKeeper 3.4.x depends on and nothing more -->
     <jline.version>0.9.94</jline.version>
     <slf4j.version>1.7.25</slf4j.version>
-    <clover.version>4.0.3</clover.version>
+    <clover.version>4.0.6</clover.version>
     <jamon-runtime.version>2.4.1</jamon-runtime.version>
     <jettison.version>1.3.8</jettison.version>
     <!--Make sure these joni/jcodings are compatible with the versions used by jruby-->

@@ -1476,7 +1476,7 @@
     <jamon.plugin.version>2.4.2</jamon.plugin.version>
     <lifecycle.mapping.version>1.0.0</lifecycle.mapping.version>
     <maven.antrun.version>1.8</maven.antrun.version>
-    <maven.bundle.version>3.3.0</maven.bundle.version>
+    <maven.bundle.version>4.0.0</maven.bundle.version>
     <maven.checkstyle.version>2.17</maven.checkstyle.version>
     <maven.compiler.version>3.6.1</maven.compiler.version>
     <maven.dependency.version>3.0.1</maven.dependency.version>

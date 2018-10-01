@@ -268,7 +268,7 @@
     <dependency>
       <groupId>org.scala-lang.modules</groupId>
       <artifactId>scala-xml_2.11</artifactId>
-      <version>1.0.4</version>
+      <version>1.1.1</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
